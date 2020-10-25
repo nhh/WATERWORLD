@@ -1,0 +1,2 @@
+- https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/
+- https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.6-LWJGL3-migration
